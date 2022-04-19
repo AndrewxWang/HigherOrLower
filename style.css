@@ -131,11 +131,11 @@ img:hover {
     margin: 0.25vh;
 }
 
-#revenue1, #revenue2 {
-    color: rgb(44, 255, 44);
+#searches1, #searches2 {
+    color: rgb(255, 133, 133);
 }
 
-#revenue2 {
+#searches2 {
     display: none;
 }
 
